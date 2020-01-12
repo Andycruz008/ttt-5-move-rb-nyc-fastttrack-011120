@@ -1,6 +1,4 @@
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 #!/usr/bin/env ruby
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 require_relative '../lib/move.rb'
 puts "Welcome to Tic Tac Toe!"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
